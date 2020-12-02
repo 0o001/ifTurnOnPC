@@ -1,0 +1,17 @@
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\ifTurnOnPC.exe.config
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\ifTurnOnPC.exe
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\ifTurnOnPC.pdb
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\obj\Debug\ifTurnOnPC.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\obj\Debug\ifTurnOnPC.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\obj\Debug\ifTurnOnPC.exe
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\obj\Debug\ifTurnOnPC.pdb
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Twilio.dll
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\bin\Debug\Twilio.xml
+C:\Users\musta\source\repos\ifTurnOnPC\ifTurnOnPC\obj\Debug\ifTurnOnPC.csproj.CopyComplete
